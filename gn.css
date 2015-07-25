@@ -1,7 +1,12 @@
+body {
+	background: #fcfcfc;
+}
+
 header {
 	background: aqua;
 }
 
 .post {
 	margin-bottom: 10px;
+	border: 1px solid #e8e8e8;
 }
