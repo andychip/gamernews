@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background: aqua;
+	background: rgba(132,133,143,0.6) !important;
 }
 
 .post {
