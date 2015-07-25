@@ -2,7 +2,7 @@ body {
 	background: #fcfcfc;
 }
 
-header {
+.dark-bg {
 	background: rgba(132,133,143,0.6) !important;
 }
 
