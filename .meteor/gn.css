@@ -1,6 +1,10 @@
+ @import url(http://fonts.googleapis.com/css?family=Lato:400,700,300);
+
 body {
-	background: #fcfcfc;
+    font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+    background: #fcfcfc;
 }
+
 
 .dark-bg {
 	background: rgba(132,133,143,0.6) !important;
