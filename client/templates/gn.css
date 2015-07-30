@@ -14,3 +14,7 @@ body {
 	margin-bottom: 10px;
 	border: 1px solid #e8e8e8;
 }
+
+.top-nav .header .logo {
+	letter-spacing: 1px !important;
+}
