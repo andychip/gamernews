@@ -50,7 +50,6 @@ iron:location@1.0.9
 iron:middleware-stack@1.0.9
 iron:router@1.0.9
 iron:url@1.0.9
-jeremy:telescope-plugin-hero@0.2.6
 jparker:crypto-core@0.1.0
 jparker:crypto-md5@0.1.1
 jparker:gravatar@0.3.1
@@ -83,6 +82,7 @@ mobile-status-bar@1.0.3
 momentjs:moment@2.10.3
 mongo@1.1.0
 mongo-livedata@1.0.8
+montecruiseto:telescope-theme-sm-magellan@0.1.2
 npm-bcrypt@0.7.8_2
 oauth@1.1.4
 oauth1@1.1.4
@@ -91,7 +91,6 @@ observe-sequence@1.0.6
 ongoworks:speakingurl@5.0.1
 ordered-dict@1.0.3
 package-version-parser@3.0.3
-perak:codemirror@1.2.3
 percolatestudio:synced-cron@1.1.0
 raix:eventemitter@0.1.2
 random@1.0.3
