@@ -18,3 +18,13 @@ body {
 .top-nav .header .logo {
 	letter-spacing: 1px !important;
 }
+
+@media screen and (min-width: 600px)
+.posts-list .post-thumbnail {
+    margin-right: 0px;
+}
+
+@media screen and (min-width: 600px)
+.posts-list .post-info {
+    margin-left: 15px;
+}
